@@ -6,6 +6,6 @@ It contains more than 100,000 question-answer pairs about passages from 536 arti
 
 **SQuAD-uk** is derived from the SQuAD dataset and it is obtained through semi-automatic translation of the SQuAD dataset 
 into Ukrainian. It represents a large-scale dataset for open question answering processes on factoid questions in Ukrainian. 
-**The dataset contains more than 60,000 question/answer pairs derived from the original English dataset.** The dataset is training set to support the replicability of the benchmarking of QA systems:
+**The dataset contains more than 30,000 question/answer pairs derived from the original English dataset.** The dataset is training set to support the replicability of the benchmarking of QA systems:
 
 * `squad-train-v1.1-uk-mini.json`: it contains training examples derived from the original SQuAD 1.1 trainig material. 
