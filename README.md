@@ -10,3 +10,4 @@ into Ukrainian. It represents a large-scale dataset for open question answering 
 
 * `squad-train-v1.1-uk-mini.json`: it contains MINI training examples derived from the original SQuAD 1.1 trainig material. 
 * `squad-train-v1.1-uk.json`: it contains training examples derived from the original SQuAD 1.1 trainig material.
+* `squad-uk-1.1.zip`: it contains training examples from *squad-train-v1.1-uk.json* and split into train-v1.1-uk.json and dev-v1.1-uk.json.
